@@ -1,0 +1,348 @@
+{ "frames": {
+   "SENPAI DOWN MAD instance 0": {
+    "frame": { "x": 0, "y": 0, "w": 125, "h": 164 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
+    "sourceSize": { "w": 125, "h": 164 },
+    "duration": 41
+   },
+   "SENPAI DOWN MAD instance 1": {
+    "frame": { "x": 125, "y": 0, "w": 125, "h": 164 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
+    "sourceSize": { "w": 125, "h": 164 },
+    "duration": 41
+   },
+   "SENPAI IDLE MAD instance 0": {
+    "frame": { "x": 250, "y": 0, "w": 125, "h": 164 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
+    "sourceSize": { "w": 125, "h": 164 },
+    "duration": 41
+   },
+   "SENPAI IDLE MAD instance 1": {
+    "frame": { "x": 375, "y": 0, "w": 125, "h": 164 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
+    "sourceSize": { "w": 125, "h": 164 },
+    "duration": 41
+   },
+   "SENPAI IDLE MAD instance 2": {
+    "frame": { "x": 500, "y": 0, "w": 125, "h": 164 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
+    "sourceSize": { "w": 125, "h": 164 },
+    "duration": 41
+   },
+   "SENPAI IDLE MAD instance 3": {
+    "frame": { "x": 625, "y": 0, "w": 125, "h": 164 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
+    "sourceSize": { "w": 125, "h": 164 },
+    "duration": 41
+   },
+   "SENPAI IDLE MAD instance 4": {
+    "frame": { "x": 750, "y": 0, "w": 125, "h": 164 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
+    "sourceSize": { "w": 125, "h": 164 },
+    "duration": 41
+   },
+   "SENPAI LEFT MAD instance 0": {
+    "frame": { "x": 0, "y": 164, "w": 125, "h": 164 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
+    "sourceSize": { "w": 125, "h": 164 },
+    "duration": 41
+   },
+   "SENPAI LEFT MAD instance 1": {
+    "frame": { "x": 125, "y": 164, "w": 125, "h": 164 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
+    "sourceSize": { "w": 125, "h": 164 },
+    "duration": 41
+   },
+   "SENPAI RIGHT MAD instance 0": {
+    "frame": { "x": 250, "y": 164, "w": 125, "h": 164 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
+    "sourceSize": { "w": 125, "h": 164 },
+    "duration": 41
+   },
+   "SENPAI RIGHT MAD instance 1": {
+    "frame": { "x": 375, "y": 164, "w": 125, "h": 164 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
+    "sourceSize": { "w": 125, "h": 164 },
+    "duration": 41
+   },
+   "SENPAI UP MAD instance 0": {
+    "frame": { "x": 500, "y": 164, "w": 125, "h": 164 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
+    "sourceSize": { "w": 125, "h": 164 },
+    "duration": 41
+   },
+   "SENPAI UP MAD instance 1": {
+    "frame": { "x": 625, "y": 164, "w": 125, "h": 164 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
+    "sourceSize": { "w": 125, "h": 164 },
+    "duration": 41
+   },
+   "SENPAI DOWN instance 0": {
+    "frame": { "x": 750, "y": 164, "w": 125, "h": 164 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
+    "sourceSize": { "w": 125, "h": 164 },
+    "duration": 41
+   },
+   "SENPAI DOWN instance 1": {
+    "frame": { "x": 0, "y": 328, "w": 125, "h": 164 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
+    "sourceSize": { "w": 125, "h": 164 },
+    "duration": 41
+   },
+   "SENPAI LEFT instance 0": {
+    "frame": { "x": 125, "y": 328, "w": 125, "h": 164 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
+    "sourceSize": { "w": 125, "h": 164 },
+    "duration": 41
+   },
+   "SENPAI LEFT instance 1": {
+    "frame": { "x": 250, "y": 328, "w": 125, "h": 164 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
+    "sourceSize": { "w": 125, "h": 164 },
+    "duration": 41
+   },
+   "SENPAI RIGHT instance 0": {
+    "frame": { "x": 375, "y": 328, "w": 125, "h": 164 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
+    "sourceSize": { "w": 125, "h": 164 },
+    "duration": 41
+   },
+   "SENPAI RIGHT instance 1": {
+    "frame": { "x": 500, "y": 328, "w": 125, "h": 164 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
+    "sourceSize": { "w": 125, "h": 164 },
+    "duration": 41
+   },
+   "SENPAI UP instance 0": {
+    "frame": { "x": 625, "y": 328, "w": 125, "h": 164 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
+    "sourceSize": { "w": 125, "h": 164 },
+    "duration": 41
+   },
+   "SENPAI UP instance 1": {
+    "frame": { "x": 750, "y": 328, "w": 125, "h": 164 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
+    "sourceSize": { "w": 125, "h": 164 },
+    "duration": 41
+   },
+   "SENPAI IDLE instance 0": {
+    "frame": { "x": 0, "y": 492, "w": 125, "h": 164 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
+    "sourceSize": { "w": 125, "h": 164 },
+    "duration": 41
+   },
+   "SENPAI IDLE instance 1": {
+    "frame": { "x": 125, "y": 492, "w": 125, "h": 164 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
+    "sourceSize": { "w": 125, "h": 164 },
+    "duration": 41
+   },
+   "SENPAI IDLE instance 2": {
+    "frame": { "x": 250, "y": 492, "w": 125, "h": 164 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
+    "sourceSize": { "w": 125, "h": 164 },
+    "duration": 41
+   },
+   "SENPAI IDLE instance 3": {
+    "frame": { "x": 375, "y": 492, "w": 125, "h": 164 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
+    "sourceSize": { "w": 125, "h": 164 },
+    "duration": 41
+   },
+   "SENPAI IDLE instance 4": {
+    "frame": { "x": 500, "y": 492, "w": 125, "h": 164 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
+    "sourceSize": { "w": 125, "h": 164 },
+    "duration": 41
+   },
+   "SENPAI IDLE instance 5": {
+    "frame": { "x": 625, "y": 492, "w": 125, "h": 164 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
+    "sourceSize": { "w": 125, "h": 164 },
+    "duration": 41
+   },
+   "SENPAI IDLE instance 6": {
+    "frame": { "x": 750, "y": 492, "w": 125, "h": 164 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
+    "sourceSize": { "w": 125, "h": 164 },
+    "duration": 41
+   },
+   "SENPAI IDLE instance 7": {
+    "frame": { "x": 0, "y": 656, "w": 125, "h": 164 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
+    "sourceSize": { "w": 125, "h": 164 },
+    "duration": 41
+   },
+   "SENPAI IDLE instance 8": {
+    "frame": { "x": 125, "y": 656, "w": 125, "h": 164 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
+    "sourceSize": { "w": 125, "h": 164 },
+    "duration": 41
+   },
+   "SENPAI IDLE instance 9": {
+    "frame": { "x": 250, "y": 656, "w": 125, "h": 164 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
+    "sourceSize": { "w": 125, "h": 164 },
+    "duration": 41
+   },
+   "SENPAI IDLE instance 10": {
+    "frame": { "x": 375, "y": 656, "w": 125, "h": 164 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
+    "sourceSize": { "w": 125, "h": 164 },
+    "duration": 41
+   },
+   "SENPAI IDLE instance 11": {
+    "frame": { "x": 500, "y": 656, "w": 125, "h": 164 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
+    "sourceSize": { "w": 125, "h": 164 },
+    "duration": 41
+   },
+   "SENPAI IDLE instance 12": {
+    "frame": { "x": 625, "y": 656, "w": 125, "h": 164 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
+    "sourceSize": { "w": 125, "h": 164 },
+    "duration": 41
+   },
+   "SENPAI IDLE instance 13": {
+    "frame": { "x": 750, "y": 656, "w": 125, "h": 164 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
+    "sourceSize": { "w": 125, "h": 164 },
+    "duration": 41
+   },
+   "SENPAI IDLE instance 14": {
+    "frame": { "x": 0, "y": 820, "w": 125, "h": 164 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
+    "sourceSize": { "w": 125, "h": 164 },
+    "duration": 41
+   },
+   "SENPAI IDLE instance 15": {
+    "frame": { "x": 125, "y": 820, "w": 125, "h": 164 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
+    "sourceSize": { "w": 125, "h": 164 },
+    "duration": 41
+   },
+   "SENPAI IDLE instance 16": {
+    "frame": { "x": 250, "y": 820, "w": 125, "h": 164 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
+    "sourceSize": { "w": 125, "h": 164 },
+    "duration": 41
+   },
+   "SENPAI IDLE instance 17": {
+    "frame": { "x": 375, "y": 820, "w": 125, "h": 164 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
+    "sourceSize": { "w": 125, "h": 164 },
+    "duration": 41
+   },
+   "SENPAI IDLE instance 18": {
+    "frame": { "x": 500, "y": 820, "w": 125, "h": 164 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
+    "sourceSize": { "w": 125, "h": 164 },
+    "duration": 41
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.28-x64",
+  "image": "senpai-sheet-sheet.png",
+  "format": "RGBA8888",
+  "size": { "w": 875, "h": 984 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "SENPAI DOWN MAD", "from": 0, "to": 1, "direction": "forward" },
+   { "name": "SENPAI IDLE MAD", "from": 2, "to": 6, "direction": "forward" },
+   { "name": "SENPAI LEFT MAD", "from": 7, "to": 8, "direction": "forward" },
+   { "name": "SENPAI RIGHT MAD", "from": 9, "to": 10, "direction": "forward" },
+   { "name": "SENPAI UP MAD", "from": 11, "to": 12, "direction": "forward" },
+   { "name": "SENPAI DOWN", "from": 13, "to": 14, "direction": "forward" },
+   { "name": "SENPAI LEFT", "from": 15, "to": 16, "direction": "forward" },
+   { "name": "SENPAI RIGHT", "from": 17, "to": 18, "direction": "forward" },
+   { "name": "SENPAI UP", "from": 19, "to": 20, "direction": "forward" },
+   { "name": "SENPAI IDLE", "from": 21, "to": 39, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "Sprite Sheet", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}
