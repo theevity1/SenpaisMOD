@@ -864,6 +864,12 @@ class PlayState extends MusicBeatState
 				add(dad2);
 				dad3 = new Character(dad.x - 130, dad.y + 300, 'senpai');
 				dad3.alpha = 0;
+			case 'thorns':
+				gf.visible = false;
+				dad2 = new Character(dad.x + 350, dad.y - 20, 'alphamad');
+				add(dad2);
+				dad3 = new Character(dad.x - 130, dad.y + 300, 'senpai');
+				dad3.alpha = 0;
 		}
 		add(dad);
 	
@@ -1484,7 +1490,7 @@ class PlayState extends MusicBeatState
 				{
 					oldNote = unspawnNotes[Std.int(unspawnNotes.length - 1)];
 
-					var sustainNote:Note = new Note(daStrumTime + (Conductor.stepCrochet * susNote) + Conductor.stepCrochet, daNoteData, oldNote, true);
+					var sustainNote:Note = new Note(daStrumTime + (Conductor.stepCrochet * susNote) + Conductor.stepCrochet, daNoteData, oldNote, true, daNoteType);
 					sustainNote.scrollFactor.set();
 					unspawnNotes.push(sustainNote);
 
@@ -3518,9 +3524,11 @@ class PlayState extends MusicBeatState
 			// Conductor.changeBPM(SONG.bpm);
 
 			// Dad doesnt interupt his own notes
-			if (SONG.notes[Math.floor(curStep / 16)].mustHitSection && dad.curCharacter != 'gf')
+			if (!dad.animation.curAnim.name.startsWith('sing') && dad.curCharacter != 'gf')
 				dad.dance();
+			if (!dad2.animation.curAnim.name.startsWith('sing') && dad.curCharacter != 'gf')
 				dad2.dance();
+			if (!dad3.animation.curAnim.name.startsWith('sing') && dad.curCharacter != 'gf')
 				dad3.dance();
 		}
 		// FlxG.log.add('change bpm' + SONG.notes[Std.int(curStep / 16)].changeBPM);

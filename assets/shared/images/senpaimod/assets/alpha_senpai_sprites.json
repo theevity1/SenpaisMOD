@@ -405,7 +405,7 @@
     "trimmed": false,
     "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
     "sourceSize": { "w": 125, "h": 164 },
-    "duration": 100
+    "duration": 1000
    },
    "ALPHA RIGHT MAD instance 0": {
     "frame": { "x": 375, "y": 164, "w": 125, "h": 164 },
@@ -525,7 +525,7 @@
     "trimmed": false,
     "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
     "sourceSize": { "w": 125, "h": 164 },
-    "duration": 100
+    "duration": 1000
    },
    "ALPHA UP MAD instance 0": {
     "frame": { "x": 625, "y": 164, "w": 125, "h": 164 },
@@ -645,7 +645,7 @@
     "trimmed": false,
     "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
     "sourceSize": { "w": 125, "h": 164 },
-    "duration": 100
+    "duration": 1000
    },
    "ALPHA DOWN instance 0": {
     "frame": { "x": 125, "y": 328, "w": 125, "h": 164 },
@@ -765,7 +765,7 @@
     "trimmed": false,
     "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
     "sourceSize": { "w": 125, "h": 164 },
-    "duration": 100
+    "duration": 1000
    },
    "ALPHA LEFT instance 0": {
     "frame": { "x": 375, "y": 328, "w": 125, "h": 164 },
@@ -885,7 +885,7 @@
     "trimmed": false,
     "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
     "sourceSize": { "w": 125, "h": 164 },
-    "duration": 100
+    "duration": 1000
    },
    "ALPHA RIGHT instance 0": {
     "frame": { "x": 625, "y": 328, "w": 125, "h": 164 },
@@ -1005,7 +1005,7 @@
     "trimmed": false,
     "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
     "sourceSize": { "w": 125, "h": 164 },
-    "duration": 100
+    "duration": 1000
    },
    "ALPHA UP instance 0": {
     "frame": { "x": 125, "y": 492, "w": 125, "h": 164 },
@@ -1125,7 +1125,7 @@
     "trimmed": false,
     "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 164 },
     "sourceSize": { "w": 125, "h": 164 },
-    "duration": 100
+    "duration": 1000
    },
    "ALPHA IDLE instance 0": {
     "frame": { "x": 375, "y": 492, "w": 125, "h": 164 },

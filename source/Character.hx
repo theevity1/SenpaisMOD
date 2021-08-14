@@ -476,11 +476,11 @@ class Character extends FlxSprite
 
 			case 'alphamad':
 				frames = Paths.getPackerAtlasJson('senpaimod/assets/alpha_senpai_sprites');
-				animation.addByPrefix('idle', 'ALPHA IDLE MAD instance', 22, false);
-				animation.addByPrefix('singUP', 'ALPHA UP MAD instance', 24, false);
-				animation.addByPrefix('singLEFT', 'ALPHA LEFT MAD instance', 24, false);
-				animation.addByPrefix('singRIGHT', 'ALPHA RIGHT MAD instance', 24, false);
-				animation.addByPrefix('singDOWN', 'ALPHA DOWN MAD instance', 24, false);
+				animation.addByPrefix('idle', 'ALPHA IDLE MAD instance', 12, false);
+				animation.addByPrefix('singUP', 'ALPHA UP MAD instance', 12, false);
+				animation.addByPrefix('singLEFT', 'ALPHA LEFT MAD instance', 12, false);
+				animation.addByPrefix('singRIGHT', 'ALPHA RIGHT MAD instance', 12, false);
+				animation.addByPrefix('singDOWN', 'ALPHA DOWN MAD instance', 12, false);
 
 				addOffset('idle');
 				addOffset("singUP", 5, 37);
@@ -660,6 +660,8 @@ class Character extends FlxSprite
 						playAnim('danceRight');
 					else
 						playAnim('danceLeft');
+				case 'alphamad':
+					playAnim('idle', true);
 				default:
 					playAnim('idle');
 			}
